@@ -16,11 +16,20 @@
 - 除以零时弹出提示
 - 显示计算结果
 
+## 运行截图
+![运行效果图/running screenshot](screenshot.png)
+
 ## 使用方式
 
 1. 克隆仓库：`git clone https://github.com/Andy0613/Calculator.git`
 2. 用 Android Studio 打开项目
 3. 连接模拟器或真机，点击 Run 运行
+
+## 提交记录
+0. 初始化项目
+1. 完成计算器按钮布局(UI)设计
+2. 整理代码仓库
+3. 实现加、减、乘、除运算逻辑，项目完成
 
 ## 作者
 
